@@ -1,0 +1,4 @@
+# https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+main:
+  - title: "Posts"
+    url: /
