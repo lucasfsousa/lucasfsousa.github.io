@@ -9,7 +9,7 @@ header:
     
 ---
 
-Hi, last Thursday I've spoke for the first time in a [meetup](https://www.meetup.com/coding-leipzig/events/260244339/) with the guys from [Coding Leipzig](https://twitter.com/coding_leipzig).
+Hi, last Thursday I've spoke for the first time in a [Meetup](https://www.meetup.com/coding-leipzig/events/260244339/) with the guys from [Coding Leipzig](https://twitter.com/coding_leipzig).
 
 I was talking a little bit about Spring Boot and Kotlin.
 You can take a look at the slides [here](https://www.meetup.com/coding-leipzig/events/260244339/).
